@@ -56,6 +56,8 @@ It can be tricky because it’s based on quantum physics, but don’t worry—yo
 
 Great question! Here are a few ideas:
 
+. Check some of the science, technology, engineering and math clasess at the Innovation Center
+
 • Check out online resources like [IBM Quantum Experience](https://quantum-computing.ibm.com/ "https://quantum-computing.ibm.com/")
 
 • Try beginner videos on YouTube (search “quantum computing for beginners”)
